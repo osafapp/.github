@@ -1,6 +1,6 @@
-<img src="osaf_profile_photo_001.JPG" align="right" width="25%">
-
 # Who is o.s.a.f / apparel?
+
+<img src="osaf_profile_photo_001.JPG" align="right" width="8%">
 
 Nathan Buxton (GitHub user @n8bot) started o.s.a.f in July 2025 to explore open-source business, collaboration, and design in the fashion industry.
 
